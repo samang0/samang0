@@ -1,16 +1,42 @@
-### Hi there 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0C134F&height=90&section=header" />
 
-<!--
-**samang0/samang0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align='center'>
+    <a href = ""><img src="https://img.shields.io/badge/Gmail-0C134F?style=for-the-badge&logo=gmail&logoColor=white" target=" _blank"></a>     
+    <a href=""=><img src="https://img.shields.io/badge/-LinkedIn-0C134F?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href = ""><img src="https://img.shields.io/badge/portfolio-0C134F?style=for-the-badge&logo=portfolio&logoColor=white" target=" _blank"></a>
+</div>
 
-Here are some ideas to get you started:
+<div>
+<img align="right" alt="pic" height="270" src="https://media.discordapp.net/attachments/1093536552870740029/1109867567687942244/fb94e102413716338169178794fdf02d.gif?width=468&height=468">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+javascript
+const Gabriel = {
+    occupation: ['Front-End Developer'],
+    code: ['HTML', 'CSS', 'Javascript'],
+    frameworks: ['React'],
+    softSkills: ['Creativity', 'Organization', 'Comunication'],
+}
+
+if (you = 'Need Developer') {
+    sendMeEmail('123lucas99@gmail.com');
+} else {
+    inviteYou('See my portfolio');
+}
+
+</div>
+
+<br>
+
+<div align="center">
+  <h2>Technologies</h2>
+  
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react&theme=dark)](https://skillicons.dev)
+</div>
+
+<br>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=samang0&bg_color=0d1117&color=FCFDF2&line=0C134F&point=FCFDF2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<br>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0C134F&height=90&section=footer" />
