@@ -9,7 +9,7 @@
 <div>
 <img align="right" alt="pic" height="270" src="https://media.discordapp.net/attachments/1093536552870740029/1109867567687942244/fb94e102413716338169178794fdf02d.gif?width=468&height=468">
 
-javascript
+```javascript
 const Gabriel = {
     occupation: ['Front-End Developer'],
     code: ['HTML', 'CSS', 'Javascript'],
@@ -22,7 +22,7 @@ if (you = 'Need Developer') {
 } else {
     inviteYou('See my portfolio');
 }
-
+```
 </div>
 
 <br>
