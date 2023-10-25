@@ -38,7 +38,7 @@ if (you = 'Need Developer') {
 <div align="center">
   <h2>Learning</h2>
   
-[![My Skills](https://skillicons.dev/icons?i=java,mysql&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,mysql,linux&theme=dark)](https://skillicons.dev)
 </div>
 
 <br>
