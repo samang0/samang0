@@ -34,9 +34,12 @@ if (you = 'Need Developer') {
   
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react&theme=dark)](https://skillicons.dev)
 </div>
-
 <br>
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=samang0&theme=dracula)](https://github.com/samang0/github-readme-activity-graph)
+<div align="center">
+  <h2>Learning</h2>
+  
+[![My Skills](https://skillicons.dev/icons?i=java,mysql&theme=dark)](https://skillicons.dev)
+</div>
 
 <br>
 
