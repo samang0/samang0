@@ -13,9 +13,9 @@
 
 ```javascript
 const Gabriel = {
-    occupation: ['Front-End Developer'],
-    code: ['HTML', 'CSS', 'Javascript'],
-    frameworks: ['React'],
+    occupation: ['Back-End Developer'],
+    code: ['HTML', 'CSS', 'Javascript', 'Java'],
+    frameworks: ['React', 'Spring boot'],
     softSkills: ['Creativity', 'Organization', 'Comunication'],
 }
 
